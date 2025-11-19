@@ -15,6 +15,6 @@ The dryness of biltong is now measurable by using the revolutionary patented BB 
 - dry; and
 - bone dry
 
-you can dry your biltong to perfection each time in our bespoke driers- thus our slogan
+you can dry your biltong to perfection each time in our bespoke driers - thus our slogan
 
-_Dried to your liking!_
+> _Dried to your liking!_
