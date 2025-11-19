@@ -18,7 +18,6 @@ extra_css = ["stylesheets/extra.css"]
 
 [project.theme]
 custom_dir = "overrides"
-favicon = "/assets/bespoke-logo.png"
 
 [templates]
 homepage = "homepage.html"
