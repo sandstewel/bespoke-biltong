@@ -1,12 +1,16 @@
 ---
 icon: lucide/circle-question-mark
+tags:
+  - Getting started
+hide:
+  - tags
 ---
 
 # Understanding what BB1 does!
 
-The Bespoke Biltong Brain Box (BB1), is an intelligent microprocessor controlled biltong dryness indicator. It is a patented and innovative device to get continuous feedback of the dryness/wetness of your prime piece of biltong.
+The Bespoke Biltong Brain Box (BB1) is an intelligent microprocessor controlled biltong dryness indicator. It is a patented and innovative device to get continuous feedback of the dryness/wetness of your prime piece of biltong.
 
-The BB1 unit is fitted with LED’s to indicate 5 levels of dryness, much like the levels of 'doneness' of steak. This is a first of its kind to quantify the dryness/wetness of biltong so that you can make an informed decision as to what moisture level you prefer your biltong to be dried to.
+The BB1 unit is fitted with LEDs to indicate 5 levels of dryness, much like the levels of _doneness_ of steak. This is a first of its kind to quantify the dryness/wetness of biltong so that you can make an informed decision as to what moisture level you prefer your biltong to be dried to.
 
 To enhance your experience with your piece of biltong and bring the “technology meets tradition” into play, the BB1 Brain Box comes with a mobile application that can be downloaded and installed on your mobile from the Google Play Store or Apple App Store.
 

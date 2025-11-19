@@ -1,5 +1,9 @@
 ---
 icon: lucide/box
+tags:
+  - Getting started
+hide:
+  - tags
 ---
 
 # What's in the box
