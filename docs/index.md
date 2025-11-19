@@ -2,8 +2,8 @@
 icon: lucide/rocket
 template: homepage.html
 hide:
-    # - navigation
+   # - navigation
     - toc
 ---
 
-# How can we help you?
+# Bespoke Biltong

@@ -1,7 +1,21 @@
 /* ----------------- Hero Section ----------------- */
 .homepage-hero {
+  position: relative;
   text-align: center;
   padding: 4rem 1rem 2rem;
+  overflow: hidden;
+  color: #fff; /* text color on top of image */
+}
+
+.homepage-hero img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0.1; /* subtle transparency */
+  width: 170px; /* your original width */
+  pointer-events: none; /* so it doesn’t block text selection */
+  z-index: 0; /* behind text */
 }
 
 .homepage-hero h1 {

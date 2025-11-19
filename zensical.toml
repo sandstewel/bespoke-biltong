@@ -9,6 +9,8 @@ nav = [
   {"About" = "about/about.md"},
   {"What's in the box" = "in-the-box/in-the-box.md"},
   {"Functional description" = "functional-description/functional-description.md"},
+  {"Powering up" = "powering-up/powering-up.md"},
+  {"System health check" = "health-checks/health-checks.md"},
 ]
 
 # Extra CSS
