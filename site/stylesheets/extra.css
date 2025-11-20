@@ -27,38 +27,53 @@
 .hero-subtitle {
   color: #555;
   font-size: 1.1rem;
-  margin-bottom: 2rem;
+  /* margin-bottom: 2rem; */
 }
 
 /* ----------------- Tiles Section ----------------- */
 .homepage-tiles {
   display: flex;
   justify-content: center;
-  padding: 2rem 1rem 4rem;
+  /* padding: 2rem 1rem 4rem; */
 }
 
-.tiles-container {
+/* .tiles-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 1.5rem;
   max-width: 900px;
   width: 100%;
-}
+} */
 
 .tile {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: var(--md-typeset-a-color); /* or your brand color */
+  color: #fff;
   text-decoration: none;
-  text-align: center;
-  padding: 1.2rem 1rem;
-  border: 1px solid #e5e7eb;
-  border-radius: 0.6rem;
-  color: var(--md-default-fg-color);
-  font-weight: 500;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: opacity 0.2s ease;
+}
+
+a.tile {
+  color: #fff;
+  text-decoration: none;
+}
+
+a.tile:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+a.tile:active {
+  color: #fff;
+  text-decoration: none;
 }
 
 .tile:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.07);
+  opacity: 0.85;
 }
 
 /* footer */

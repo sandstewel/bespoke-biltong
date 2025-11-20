@@ -1,12 +1,12 @@
 ---
-icon: lucide/circle-question-mark
+icon: lucide/lightbulb
 tags:
   - Getting started
 hide:
   - tags
 ---
 
-# Understanding what BB1 does!
+# Product overview
 
 The Bespoke Biltong Brain Box (BB1) is an intelligent microprocessor controlled biltong dryness indicator. It is a patented and innovative device to get continuous feedback of the dryness/wetness of your prime piece of biltong.
 
